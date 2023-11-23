@@ -138,4 +138,126 @@ In summary, while viruses may exhibit SAED patterns if they have sufficient inte
 
 ---
 
-### Q5. 
+### Q5. Discuss basic limitations of atomic force microscopy (AFM). What are the roles of aspect ratio of tips in order to obtain perfect dimension of AFM image?
+
+### Ans.
+**Limitations of Atomic Force Microscopy (AFM):**
+
+1. **Limited Speed:** AFM is generally slower compared to other microscopy techniques. The scanning process takes time, especially for large or complex samples, which can limit its applicability for dynamic or time-sensitive studies.
+
+2. **Sample Requirements:** The sample must be relatively flat and rigid for successful AFM imaging. Soft or flexible samples may deform under the probing force, affecting the accuracy of the results.
+
+3. **Surface Roughness:** High surface roughness can pose challenges for AFM imaging, as the tip may interact with surface features, leading to artifacts or distorted images.
+
+4. **Imaging in Liquid:** While AFM can operate in liquid environments, imaging in liquid can be more challenging due to the damping effect of the liquid on the cantilever motion and the possibility of introducing imaging artifacts.
+
+5. **Force Interactions:** The force exerted by the tip on the sample during scanning can influence the sample, and this interaction may alter the surface properties or introduce artifacts in the images.
+
+**Role of Aspect Ratio of Tips in AFM Imaging:**
+
+The aspect ratio of the AFM tip, defined as the ratio of the tip's height to its width, plays a crucial role in determining the resolution and quality of AFM images. Here's how the aspect ratio influences AFM imaging:
+
+1. **Aspect Ratio and Lateral Resolution:**
+   - A higher aspect ratio of the tip (tall and narrow) allows for better lateral resolution in AFM imaging. This is because a sharp tip can access smaller features on the sample surface, improving the ability to resolve fine details.
+
+      ![image](https://github.com/incognion/501/assets/97580124/a33fd32a-be51-4b2e-a964-52859d4f826d)
+
+
+2. **Aspect Ratio and Sample Sensitivity:**
+   - The choice of tip aspect ratio can be tailored to the sample properties. For softer samples, a lower aspect ratio might be preferred to minimize the force exerted on the sample during imaging.
+
+In summary, the aspect ratio of AFM tips is a critical parameter that can be tailored based on the specific requirements of the imaging task. A careful selection of tip geometry is essential to achieve optimal resolution, minimize artifacts, and ensure accurate representation of sample features in AFM images.
+
+### Q6. Calculate the polarization factor when an X-ray beam is scattered by a single electron with a scattering angle of 2θ ~ 39.5 degrees. Given a scattering diameter of approximately 3.9 nm, the intensity ratio is determined to be 0.79. Next, evaluate the change in the intensity ratio when the X-ray beam is scattered at an angle 2θ ~ 59.9 degrees, with a scattering diameter of approximately 2.9 nm. Consider the initial intensity (I0 = 2 x 10^6 cps) and determine whether the intensity is decreasing or increasing.
+
+### Ans.
+<img src="https://github.com/incognion/501/assets/97580124/fe626167-a4a3-4507-897d-f6235ee0830b" width="900" height="600" >
+<img src="https://github.com/incognion/501/assets/97580124/3ae6832d-684b-486a-83d3-4ee7fa8ba587" width="900" height="600" >
+<img src="https://github.com/incognion/501/assets/97580124/7f2503a6-13e5-4d45-8835-0a59b5b1df1d" width="900" height="600" >
+<img src="https://github.com/incognion/501/assets/97580124/2559d949-7595-4cdb-a0e4-d57cf25d7e85" width="900" height="600" >
+
+<!--- ![image](https://github.com/incognion/501/assets/97580124/fe626167-a4a3-4507-897d-f6235ee0830b)
+![image](https://github.com/incognion/501/assets/97580124/3ae6832d-684b-486a-83d3-4ee7fa8ba587)
+![image](https://github.com/incognion/501/assets/97580124/7f2503a6-13e5-4d45-8835-0a59b5b1df1d)
+![image](https://github.com/incognion/501/assets/97580124/2559d949-7595-4cdb-a0e4-d57cf25d7e85) --->
+
+### Q7. “Semi-in lens” and “In-lens objective” lenses are used in which type of microscope? Why? If we use the same in optical microscopy what would be the difference in imaging?
+
+### Ans.
+"Semi-in lens" and "In-lens objective" lenses are terminologies commonly associated with Transmission Electron Microscopy (TEM), specifically referring to the configuration of lenses within the TEM column.
+
+**Usage in Transmission Electron Microscopy (TEM):**
+
+1. **Semi-in Lens:**
+   - **Purpose:** The semi-in lens is a component of the TEM column designed to focus the electron beam after it passes through the specimen.
+   - **Function:** It helps in further converging the electron beam, contributing to the formation of a well-focused image on the detector.
+   - **Location:** The semi-in lens is situated after the specimen in the TEM column.
+
+2. **In-lens Objective:**
+   - **Purpose:** The in-lens objective lens is another component in the TEM column that plays a role in focusing the electron beam.
+   - **Function:** It is specifically positioned close to the specimen, contributing to the initial convergence of the electron beam before it interacts with the specimen.
+   - **Location:** The in-lens objective lens is placed near the specimen in the TEM column.
+
+**Reasons for Use in TEM:**
+   - In TEM, achieving high-resolution imaging requires precise control over the electron beam. The combination of semi-in and in-lens objective lenses allows for better control and manipulation of the electron beam, leading to improved imaging resolution and contrast.
+
+**Usage in Optical Microscopy:**
+
+In optical microscopy, the terms "semi-in lens" and "in-lens objective" are not commonly used, as the optical microscope operates on a different set of principles involving light rather than electrons. However, the concept of adjusting lenses for focusing still applies.
+
+**Differences in Imaging in Optical Microscopy:**
+   - In optical microscopy, lenses are used to bend and focus light, and their arrangement is distinct from the configuration of electron lenses in TEM.
+   - The imaging differences in optical microscopy would primarily relate to the properties of light, such as wavelength and diffraction limit, as opposed to the behavior of electrons in TEM.
+   - The use of specialized lenses in optical microscopy, such as high numerical aperture objectives, can enhance resolution and contrast, but the terminology and concepts differ from those in TEM.
+
+In summary, "semi-in lens" and "in-lens objective" lenses are utilized in Transmission Electron Microscopy to control and focus the electron beam, contributing to high-resolution imaging. In optical microscopy, the terminology and principles are different, but the general idea of using lenses for focusing light remains applicable for achieving optimal imaging conditions.
+
+### Q8. Describe with diagram how the “Eucentric Specimen” stage helps in focusing in electron microscopy?
+
+### Ans.
+**Eucentric Specimen Stage in Electron Microscopy:**
+
+The Eucentric Specimen Stage is a specialized stage in electron microscopes designed to keep the specimen centered in the electron beam, simplifying the focusing process. It typically has two main movements: tilt and translation.
+
+![image](https://github.com/incognion/501/assets/97580124/5b89f650-a0b4-4152-952a-6fb5bf530ec0)
+
+
+1. **Tilt Movement (θ):**
+   - The Eucentric Specimen Stage allows for tilting the specimen along two axes: tilt and rotation.
+   - By tilting the specimen, the user can align specific features or crystallographic planes with the electron beam, optimizing the visibility of details in the sample.
+
+2. **Translation (X-Y Movement):**
+   - The stage can be moved in the X-Y plane to center the specimen in the field of view without altering the tilt or rotation angles.
+   - This movement enables the user to keep the region of interest consistently positioned in the center of the electron beam.
+
+By providing controlled and stable adjustments, the Eucentric Specimen Stage simplifies the process of focusing on specific areas of interest within the sample, contributing to the overall success and efficiency of electron microscopy.
+
+### Q9. Why depth of focus is higher for electron microscopy compared to optical electron microscopy?
+
+### Ans.
+**Depth of Focus in Electron Microscopy vs. Optical Microscopy:**
+
+**Electron Microscopy:**
+1. **Shorter Wavelength:**
+   - Electrons have much shorter wavelengths than visible light in electron microscopy.
+
+2. **Higher Resolution:**
+   - Higher spatial resolution allows for detailed imaging of fine structures.
+
+3. **Reduced Diffraction Effects:**
+   - Shorter electron wavelengths result in reduced diffraction, contributing to a higher depth of focus.
+
+4. **Adjustable Aperture:**
+   - Electron microscopes often have adjustable apertures, providing control over depth of focus.
+
+**Optical Microscopy:**
+1. **Longer Wavelength:**
+   - Visible light has longer wavelengths compared to electrons in optical microscopy.
+
+2. **Depth of Focus Limited by NA:**
+   - Depth of focus is limited by the square of the numerical aperture (NA) of the objective lens.
+
+3. **Lower Spatial Resolution:**
+   - Lower spatial resolution limits the ability to visualize fine details in thicker specimens.
+
+In summary, the shorter wavelength of electrons in electron microscopy allows for higher spatial resolution and reduced diffraction effects, resulting in a greater depth of focus compared to optical microscopy.
